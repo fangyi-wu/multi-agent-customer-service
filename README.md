@@ -213,8 +213,3 @@ This project demonstrates:
 - [A2A Protocol](https://a2aprotocol.ai/)
 - [Google ADK Documentation](https://google.github.io/adk-docs/)
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
-
-## 👤 Author
-
-[Your Name]  
-[Your Course/Class]
