@@ -1,0 +1,20 @@
+# Multi-Agent Customer Service System Requirements
+# Python 3.10+ required
+
+# MCP SDK for Model Context Protocol server
+mcp>=1.0.0
+
+# Google ADK for Agent Development Kit with A2A support
+google-adk[a2a]>=0.5.0
+
+# Web server for A2A endpoints
+uvicorn>=0.30.0
+starlette>=0.38.0
+
+# HTTP client for A2A communication
+httpx>=0.27.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Note: sqlite3 is part of Python standard library
